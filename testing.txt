@@ -1,1 +1,2 @@
 test2
+ssh-add ~/.ssh/id_rsa_caribana
